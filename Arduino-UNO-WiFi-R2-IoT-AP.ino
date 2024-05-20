@@ -13,7 +13,7 @@
 
   Based on examples from https://docs.arduino.cc/tutorials/communication/wifi-nina-examples
     
-  GitHub/OJStuff, march 24, 2024, v1.0
+  Author: GitHub/OJStuff, march 24, 2024, v1.0
 */
 
 #define SERIAL_MONITOR_BAUDRATE 115200  // Serial monitor speed
